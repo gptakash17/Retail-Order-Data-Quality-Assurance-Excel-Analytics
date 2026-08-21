@@ -19,7 +19,7 @@ This repository serves as the primary master hub and navigation center for an en
 ## Technical Stack
 * **Software used:** Excel, Tablue.
 * **Statistical Analysis:** Regression Modeling, KPI Formulation, Hypothesis Testing
-* **Data Visualization:** Tableau, Matplotlib / Seaborn
+* **Data Visualization:** Tableau.
 * **Version Control:** Git & GitHub
 
 ---
